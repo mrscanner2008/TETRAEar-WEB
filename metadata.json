@@ -1,0 +1,5 @@
+{
+  "name": "TetraEar Web",
+  "description": "Professional TETRA Decoder and Analyzer with real-time spectrum visualization and voice decoding simulation.",
+  "requestFramePermissions": []
+}
